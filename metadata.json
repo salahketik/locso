@@ -1,0 +1,6 @@
+{
+  "name": "LOCSO Coffee & Eatery",
+  "description": "Premium, minimalist landing page for LOCSO Coffee & Eatery in Solok, West Sumatra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
